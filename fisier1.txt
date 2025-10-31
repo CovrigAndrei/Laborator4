@@ -1,2 +1,3 @@
 Modificare fisier pe ramura feature.
-Versiune din main.
+Versiune din main si versiune din feature.
+
